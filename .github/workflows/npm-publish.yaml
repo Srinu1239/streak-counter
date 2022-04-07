@@ -8,10 +8,10 @@ jobs:
      - uses: actions/setup-node@v1
        with:
            node-version: '14'
-     - run: npm install
-     - run: npm test
-     - run: npm build
+     - run: yarn install
+     - run: yarn test
+     - run: yarn build
      - uses: JS-DevTools/npm-publish@v1
        with:
-         token: $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
+         token: $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
          access: "public"
