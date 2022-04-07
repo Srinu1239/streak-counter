@@ -1,5 +1,5 @@
 {
-  "name": "@Srinu1239/streak-counter",
+  "name": "srinu_streak-counter",
   "version": "0.0.1",
   "description": "a streak counter for the browser, inspired by Duolingo.",
   "main": "index.js",
